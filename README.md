@@ -42,6 +42,8 @@ This project analyzes **3,000 simulated global conflicts (1950–2024)** to unco
 
 The analysis was conducted using **SQL in MySQL Workbench**, with insights documented and visualized for portfolio presentation.
 
+---
+
 ## Dataset Description
 
 The dataset contains **3,000 simulated global conflicts** between countries.
