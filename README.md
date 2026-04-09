@@ -128,11 +128,11 @@ ORDER BY Year;
 - **1986 recorded the highest number of conflicts (56).**
 - Conflict frequency fluctuates significantly over time rather than following a consistent trend.
 
-![Conflicts Over Time](Images/1_Conflicts Over Time.png)
+![Conflicts Over Time](Images/conflicts_over_time.png)
 
 Image location:
 ```
-Images/1_Conflicts Over Time.png
+Images/conflicts_over_time.png
 ```
 
 ---
