@@ -355,6 +355,8 @@ The analysis revealed several important patterns:
 - Conventional weapons are associated with higher casualty rates.
 
 ---
+⭐ If you found this project interesting, feel free to explore the SQL queries inside the `/sql` folder.
+---
 
 # Limitations
 
