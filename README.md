@@ -154,11 +154,11 @@ ORDER BY decade;
 
 - The **2010s experienced the highest number of conflicts**, with **416 recorded conflicts**.
 
-![Conflicts Per Decade](images/conflicts_per_decade.png)
+![Conflicts Per Decade](Images/conflicts_per_decade.png)
 
 Image location:
 ```
-images/conflicts_per_decade.png
+Images/conflicts_per_decade.png
 ```
 
 ---
