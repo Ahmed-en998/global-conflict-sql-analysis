@@ -356,7 +356,7 @@ The analysis revealed several important patterns:
 
 ---
 ⭐ If you found this project interesting, feel free to explore the SQL queries inside the `/sql` folder.
----
+
 
 ---
 # Limitations
