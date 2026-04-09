@@ -181,11 +181,11 @@ ORDER BY avg_duration DESC;
 - **Civil wars are the longest-lasting conflicts**, averaging **1034 days**.
 - Internal conflicts often take longer to resolve due to political fragmentation and prolonged instability.
 
-![Conflict Duration by Type](images/conflict_duration_by_type.png)
+![Conflict Duration by Type](Images/confllicts_duration_by_type.png)
 
 Image location:
 ```
-images/conflict_duration_by_type.png
+Images/confllicts_duration_by_type.png
 ```
 
 ---
@@ -205,11 +205,11 @@ ORDER BY avg_civilian_deaths DESC;
 
 - **Cold conflicts produce the highest civilian casualties on average**, exceeding **102,000 deaths per conflict**.
 
-![Civilian Deaths by Type](images/civilian_deaths_by_type.png)
+![Civilian Deaths by Type](Images/civilian_deaths_by_conflict_type.png)
 
 Image location:
 ```
-images/civilian_deaths_by_type.png
+Images/civilian_deaths_by_conflict_type.png
 ```
 
 ---
