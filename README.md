@@ -354,8 +354,6 @@ The analysis revealed several important patterns:
 - Conflict terrain and climate conditions appear associated with conflict duration and casualties.
 - Conventional weapons are associated with higher casualty rates.
 
----
-⭐ If you found this project interesting, feel free to explore the SQL queries inside the `/sql` folder.
 
 
 ---
@@ -379,3 +377,8 @@ Ahmed Khaled
 
 Computer Engineering Graduate  
 Aspiring Data Analyst
+
+---
+---
+⭐ If you found this project interesting, feel free to explore the SQL queries inside the `/sql` folder.
+-
